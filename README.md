@@ -28,11 +28,11 @@ const maksym = {
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   WEB APPS       │    │   MOBILE APPS    │    │   BACKENDS       │
-│                  │    │                  │    │                  │
-│ React + Next.js  │───▶│ React Native     │───▶│ Node.js + APIs   │
-│ TypeScript       │    │ iOS + Android    │    │ REST + GraphQL   │
-│ Redux            │    │ Expo             │    │ AWS-powered      │
+│   WEB APPS      │    │   MOBILE APPS   │    │   BACKENDS      │
+│                 │    │                 │    │                 │
+│ React + Next.js │───▶│ React Native    │───▶│ Node.js + APIs  │
+│ TypeScript      │    │ iOS + Android   │    │ GraphQL + REST  │
+│ Redux + GraphQL │    │ Expo + CLI      │    │ PostgreSQL      │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
