@@ -1,13 +1,4 @@
-# Project Name
-
-> A short, clear one-line description of what this project does.
-
-![License](https://img.shields.io/github/license/username/repo-name)
-![Stars](https://img.shields.io/github/stars/username/repo-name)
-![Forks](https://img.shields.io/github/forks/username/repo-name)
-![Issues](https://img.shields.io/github/issues/username/repo-name)
-![Last Commit](https://img.shields.io/github/last-commit/username/repo-name)
-
+# Project 1
 ---
 
 ## 📖 Table of Contents
