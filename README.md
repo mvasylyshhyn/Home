@@ -1,121 +1,95 @@
-# Project 1
----
-
-## 📖 Table of Contents
-
-- [About](#-about)
-- [Demo](#-demo)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Configuration](#-configuration)
-- [Project Structure](#-project-structure)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-
----
-
-## 📌 About
-
-Explain here what the project is, what problem it solves, and who it's for.
-A couple of sentences is usually enough — save the deep details for later sections.
-
-## 🎬 Demo
-
-![Demo](./assets/demo.gif)
-
-Or link to a live version:
-
-🔗 [Live Demo](https://your-live-demo-link.com)
-
-## ✨ Features
-
-- ✅ Feature one
-- ✅ Feature two
-- ✅ Feature three
-- 🔜 Feature planned for later
-
-## 🛠 Installation
-
-### Prerequisites
-- Node.js >= 18 (or your relevant runtime)
-- npm / yarn / pnpm
-
-### Steps
-```bash
-# Clone the repository
-git clone https://github.com/username/repo-name.git
-
-# Move into the project directory
-cd repo-name
-
-# Install dependencies
-npm install
+```
+ __  __    __      ___    ______   __     __      __      ___
+|  \/  |  /  \    |_ _|  / / ___|  \ \   / /     /\ \    / (_)
+| |\/| | / /\ \    | |  / /\___ \   \ \ / /     /  \ \  / /| |
+| |  | |/ ____ \   | | / /  ___) |   \ V /     / /\ \ \/ / | |
+|_|  |_/_/    \_\ |___/_/  |____/     \_/     /_/  \_\  /  |_|
 ```
 
-## 🚀 Usage
+### `full-stack` isn't a title. it's a habit.
 
-```bash
-# Run the project
-npm start
-```
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F441&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Next.js+%2B+Node.js;React+Native+%2B+AWS;Building+products+that+scale)
 
-Example code snippet:
+---
 
 ```js
-import { doSomething } from "repo-name";
-
-doSomething();
+const maksym = {
+  role: "Full-Stack Developer",
+  location: "UK / US / EU 🌍 (Remote)",
+  currently: "Shipping web + mobile products end-to-end",
+  stack: {
+    languages: ["JavaScript", "TypeScript"],
+    frontend:  ["React", "Next.js", "Redux"],
+    mobile:    ["React Native", "Expo", "iOS", "Android"],
+    backend:   ["Node.js", "Express", "REST", "GraphQL"],
+    cloud:     ["AWS (S3, EC2, DynamoDB)", "Heroku", "Firebase"],
+  },
+  openTo: "Remote opportunities · Startups · Product companies",
+};
 ```
 
-## ⚙️ Configuration
+---
 
-Create a `.env` file in the root directory with the following variables:
-
-```env
-API_KEY=your_api_key_here
-PORT=3000
-```
-
-## 📂 Project Structure
+## ⚡ What I build
 
 ```
-repo-name/
-├── src/               # Source code
-├── assets/            # Images, GIFs, static files
-├── tests/             # Test files
-├── .env.example        # Example environment variables
-├── package.json
-└── README.md
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   WEB APPS       │    │   MOBILE APPS    │    │   BACKENDS       │
+│                  │    │                  │    │                  │
+│ React + Next.js  │───▶│ React Native     │───▶│ Node.js + APIs   │
+│ TypeScript       │    │ iOS + Android    │    │ REST + GraphQL   │
+│ Redux            │    │ Expo             │    │ AWS-powered      │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
-## 🗺 Roadmap
+---
 
-- [x] Initial release
-- [ ] Add feature X
-- [ ] Improve documentation
-- [ ] Add tests
+## 🛠 Tech Stack
 
-## 🤝 Contributing
+**Languages**
 
-Contributions are welcome!
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+**Frontend**
 
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-## 📄 License
+**Mobile**
 
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## 📬 Contact
+**Backend**
 
-**Your Name** — [@your_twitter](https://twitter.com/your_twitter) — your.email@example.com
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-Project Link: [https://github.com/username/repo-name](https://github.com/username/repo-name)
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvasylyshhyn&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvasylyshhyn&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📡 Signal
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-vasylyshhyn-9aab46423/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasylyshynmaksymwork@gmail.com)
+
+---
+
+*`> deploy() // always shipping`*
